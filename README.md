@@ -1,1 +1,1 @@
-# Linear Regregression implementation
+# Linear Regression implementation
